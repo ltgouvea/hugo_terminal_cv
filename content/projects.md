@@ -1,19 +1,24 @@
 ---
-title: "Projects"
+title: "Projetos"
 date: "2018-07-18"
 author: "Lucas T. A. Gouvêa"
 ---
 
-## Header 2
+## Grupo Tesseract
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. **Donec quis dolor nec nunc mollis interdum vel in purus**. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.
+O grupo tesseract é uma organização da qual faço parte há alguns anos e participo ativamente, seja em projetos ou contribuindo pro conhecimento e crescimento interno da organização.
+Temos um modelo de trabalho transparente, horizontal, orientado a melhorias contínuas e com o objetivo de tornar o desenvolvimento de software uma atividade mais humana.
+Acesse grupotesseract.com.br para mais informações ou procure a gente no Github.
 
-> Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.
+## Trampos musicais da vida
 
-### Header 3
+Gosto muito de tocar guitarra. Mais do que eu deveria.
 
-Nulla libero turpis, lacinia vitae cursus ut, auctor dictum nisl. Fusce varius felis nec sem ullamcorper, at convallis nisi vestibulum. Duis risus odio, porta sit amet placerat mollis, tincidunt non mauris. Suspendisse fringilla, `odio a dignissim pharetra`, est urna sollicitudin urna, eu scelerisque magna ex vitae tellus.
+## Freelance
 
+Quando sobra tempo consigo participar em trampos freelance pra sistemas ou sites mais básicos. Infelizmente, não tem sobrado tempo, mas qualquer coisa eu atualizo aqui, ou você sempre pode mandar um e-mail com uma proposta irrecusável :D
+
+## Exemplos de código que vieram com o template e vou deixar aqui pois achei bonitinho e vai que alguém precisa um dia
 ```css
 /* PostCSS code */
 
@@ -70,15 +75,3 @@ window.addEventListener('resize', isMobileMenu)
 </section>
 ```
 
-#### Header 4
-
-Curabitur scelerisque felis viverra varius scelerisque. Ut enim libero, molestie gravida blandit at, mollis ornare tellus. Cras arcu mi, ultrices vel pulvinar vel, volutpat eu tortor. Nullam nec eros quis massa ultrices iaculis sed in metus. Praesent sollicitudin sem sit amet orci tempor gravida.
-
-- Maecenas elementum vitae nibh vitae porttitor.
-- Aenean consequat, risus ut cursus placerat, arcu nulla sodales risus, ut molestie tellus tellus et dui.
-- Integer imperdiet turpis vitae lacus imperdiet, ut ornare ligula auctor. Integer in mi eu velit vehicula suscipit eget vulputate nulla.
-- Etiam vitae enim quis velit lobortis placerat a ut sem.
-  - Curabitur lobortis ante sit amet orci pulvinar, sollicitudin viverra nunc accumsan.
-  - Praesent fermentum orci quis leo facilisis posuere.
-
-Aliquam erat volutpat. In hac habitasse platea dictumst. Nunc ut tincidunt mauris. Sed at gravida risus, id semper magna. Nullam vitae enim mattis, sodales neque non, pharetra elit. Cras sit amet sagittis augue, et finibus turpis. Ut tempus tincidunt diam vel pharetra. Nulla porttitor odio sit amet nulla scelerisque, quis aliquam mi imperdiet. Sed tincidunt dui vel tellus vestibulum rhoncus. Donec tempus ultrices velit.
