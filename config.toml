@@ -1,4 +1,4 @@
-baseurl = "https://ltgouvea.github.io/hugo_terminal_cv"
+baseurl = "https://ltgouvea.github.io/"
 languageCode = "pt-br"
 theme = "terminal"
 paginate = 5
