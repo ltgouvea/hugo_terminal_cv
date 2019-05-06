@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://ltgouvea.github.io/"
 languageCode = "pt-br"
 theme = "terminal"
 paginate = 5

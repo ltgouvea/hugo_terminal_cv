@@ -1,6 +1,6 @@
 +++
 title = "CV"
-date = "2019-01-25"
+date = "2019-01-15"
 author = "Lucas Gouvêa"
 +++
 # Dados
