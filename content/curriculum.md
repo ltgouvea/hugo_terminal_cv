@@ -26,11 +26,11 @@ author = "Lucas Gouvêa"
 
 Português, Inglês (fluente), Espanhol (intermediário)
 
-## Linguagens de Programação
+## Linguagens de Programação/Frameworks
 
 PHP, Javascript, GraphQL, SQL, Shellscript, Angular, React, Ionic, Laravel, Node.js
 
-- Estudando: clojure/clojurescript, Golang.
+- Estudando: clojure/clojurescript, Golang, Dart.
 
 # Experiência Profissional em T.I e Desenvolvimento
 
@@ -51,8 +51,12 @@ PHP, Javascript, GraphQL, SQL, Shellscript, Angular, React, Ionic, Laravel, Node
 + Desenvolvimento de Sistemas e Aplicações Web sob medida
 + Foco em PHP/Laravel
 
+## Agência Revelare (2018 - Atual)
+
++ Desenvolvimento de sistemas em Angular 6/7, Ionic, Laravel, usando bancos de dados MySQL e Postgres
+
 ## Habilidades
 
-+ Desenvolvedor fullstack (nível senior de habilidade pra back-end/nível junior pra front-end)
++ Desenvolvedor Fullstack
 + Git
 + Linux
