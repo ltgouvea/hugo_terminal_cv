@@ -1,7 +1,7 @@
 ---
 title: "Projetos"
-date: "2018-07-18"
-author: "Lucas T. A. Gouvêa"
+date: "2019-05-18"
+author: "Lucas Gouvêa"
 ---
 
 ## Grupo Tesseract
@@ -10,6 +10,9 @@ O grupo tesseract é uma organização da qual faço parte há alguns anos e par
 Temos um modelo de trabalho transparente, horizontal, orientado a melhorias contínuas e com o objetivo de tornar o desenvolvimento de software uma atividade mais humana.
 Acesse grupotesseract.com.br para mais informações ou procure a gente no Github.
 
+[<div class="image-container"><img src="/img/logo-tesseract-branco-simples.png"></div>](https://www.grupotesseract.com.br/)
+      
+
 ## Trampos musicais da vida
 
 Gosto muito de tocar guitarra. Mais do que eu deveria.
@@ -17,6 +20,9 @@ Gosto muito de tocar guitarra. Mais do que eu deveria.
 ## Freelance
 
 Quando sobra tempo consigo participar em trampos freelance pra sistemas ou sites mais básicos. Infelizmente, não tem sobrado tempo, mas qualquer coisa eu atualizo aqui, ou você sempre pode mandar um e-mail com uma proposta irrecusável :D
+
+## Portfólio feito em React - Beatriz Montanhaur
+[<div class="image-container"><img src="/img/beatrizdm.png"></div>](https://www.beatrizdm.com/)
 
 ## Exemplos de código que vieram com o template e vou deixar aqui pois achei bonitinho e vai que alguém precisa um dia
 ```css
@@ -35,7 +41,7 @@ pre {
   }
 
   code {
-    background: none !important;
+    background: none;
     color: #ccc;
     padding: 0;
     font-size: inherit;

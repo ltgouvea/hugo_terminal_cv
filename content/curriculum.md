@@ -1,5 +1,5 @@
 +++
-title = "CV"
+title = "Currículo"
 date = "2019-01-15"
 author = "Lucas Gouvêa"
 +++
