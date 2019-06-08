@@ -6,7 +6,7 @@ paginate = 5
 [params]
   contentTypeName = "post"
   themeColor = "green"
-  showMenuItems = 2
+  showMenuItems = 3
 
   [languages.en]
     title = "Lucas Gouvêa"
@@ -30,3 +30,7 @@ paginate = 5
         identifier = "projects"
         name = "Projetos"
         url = "/projects"
+      [[languages.en.menu.main]]
+        identifier = "contato"
+        name = "Contato"
+        url = "/contato"
