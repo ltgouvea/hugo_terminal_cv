@@ -30,7 +30,7 @@ Português, Inglês (fluente), Espanhol (intermediário)
 
 PHP, Javascript, GraphQL, SQL, Shellscript, Angular, React, Ionic, Laravel, Node.js
 
-- Estudando: clojure/clojurescript, Golang, Dart.
+- Estudando: clojure/clojurescript, Golang, Dart e sempre aprendendo mais sobre ferramentas de shell.
 
 # Experiência Profissional em T.I e Desenvolvimento
 
@@ -51,12 +51,18 @@ PHP, Javascript, GraphQL, SQL, Shellscript, Angular, React, Ionic, Laravel, Node
 + Desenvolvimento de Sistemas e Aplicações Web sob medida
 + Foco em PHP/Laravel
 
-## Agência Revelare (2018 - Atual)
+## Agência Revelare (2018 - 2019)
 
-+ Desenvolvimento de sistemas em Angular 6/7, Ionic, Laravel, usando bancos de dados MySQL e Postgres
++ Desenvolvimento de sistemas em Angular 6/7, Ionic, Laravel, usando bancos de dados MySQL e Postgres.
 
-## Habilidades
+## eSapiens (2019 - atual)
 
-+ Desenvolvedor Fullstack
++ Atualmente como desenvolvedor de back-end pleno
++ Faço parte do time de Growth/Monetização da plataforma Sexlog <3
++ Tecnologias principais: PHP, AngularJS e PostgreSQL
+
+## Habilidades principais
+
++ Desenvolvedor Fullstack (hoje focado no back-end)
 + Git
 + Linux

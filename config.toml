@@ -5,7 +5,7 @@ paginate = 5
 
 [params]
   contentTypeName = "post"
-  themeColor = "green"
+  themeColor = "pink"
   showMenuItems = 3
 
   [languages.en]
