@@ -3,5 +3,5 @@
 	url = https://github.com/panr/hugo-theme-terminal.git
 [submodule "public"]
 	path = public
-	url = git@github.com:ltgouvea/ltgouvea.github.io.git
+	url = https://github.com/ltgouvea/ltgouvea.github.io.git
 	branch = master

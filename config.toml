@@ -9,8 +9,8 @@ paginate = 5
   showMenuItems = 3
 
   [languages.en]
-    title = "Lucas Gouvêa"
-    subtitle = "FullStack Dev"
+    title = "Lucas Gouvêa - Web Developer"
+    subtitle = "Brasil"
     keywords = "Developer, Web Developer, PHP, Fullstack, Javascript, Github"
     copyright = "2020"
     menuMore = "Mostrar Mais"
