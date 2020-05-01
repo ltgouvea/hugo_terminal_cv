@@ -5,14 +5,14 @@ paginate = 5
 
 [params]
   contentTypeName = "post"
-  themeColor = "pink"
+  themeColor = "green"
   showMenuItems = 3
 
   [languages.en]
     title = "Lucas Gouvêa"
     subtitle = "FullStack Dev"
-    keywords = "Fullstack, Javascript, PHP, Developer, Github"
-    copyright = "2019"
+    keywords = "Developer, Web Developer, PHP, Fullstack, Javascript, Github"
+    copyright = "2020"
     menuMore = "Mostrar Mais"
     readMore = "Ler mais"
     readOtherPosts = "Ler outros posts"
