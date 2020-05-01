@@ -24,7 +24,7 @@
 
       {{ with .Params.Cover }}
         <div class="image-container">
-                <img src="{{ . | absURL }}" class="post-cover" alt="{{ absURL }}" />
+                <img src="{{ . | absURL }}" class="post-cover" alt="{{ . }}" />
         </div>
       {{ end }}
 
