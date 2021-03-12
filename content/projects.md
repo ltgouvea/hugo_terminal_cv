@@ -24,6 +24,9 @@ Quando sobra tempo consigo participar em trampos freelance pra sistemas ou sites
 ## Portfólio feito em React - Beatriz Montanhaur
 [<div class="image-container"><img src="/img/beatrizdm.png"></div>](https://www.beatrizdm.com/)
 
+## Site do projeto Múltiplos Olhares - Documentário sobre Esclerose Múltipla e Pandemia
+[<div class="image-container"><img src="/img/multiplosolhares.png"></div>](https://www.projetomultiplosolhares.com/)
+
 ## Exemplos de código que vieram com o template e vou deixar aqui pois achei bonitinho e vai que alguém precisa um dia
 ```css
 /* PostCSS code */
