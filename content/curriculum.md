@@ -57,7 +57,7 @@ PHP, Javascript, GraphQL, SQL, Shellscript, Angular, React, Ionic, Laravel, Node
 
 ## eSapiens (2019 - atual)
 
-+ Atualmente como desenvolvedor de back-end pleno
++ Atualmente como desenvolvedor de back-end senior
 + Faço parte do time de Growth/Monetização da plataforma Sexlog <3
 + Tecnologias principais: PHP, AngularJS e PostgreSQL
 
