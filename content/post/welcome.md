@@ -2,7 +2,7 @@
 title = "Bem-vindo"
 date = "2019-01-25"
 author = "Lucas"
-cover = "./img/me.jpg"
+cover = "./img/me.jpeg"
 description = "Sou um desenvolvedor web que há alguns anos já mora em Bauru, SP. Curto projetos desafiadores e estou sempre interessado por novas tecnologias e maneiras de codar melhor, mais livre e mais eficientemente."
 +++
 
