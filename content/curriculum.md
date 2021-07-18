@@ -6,7 +6,7 @@ author = "Lucas Gouvêa"
 # Dados
 
 + Nome: Lucas Thiago Assumpção Gouvêa
-+ Data de nascimento: 09/11/1990 (28 anos)
++ Data de nascimento: 09/11/1990 (30 anos)
 + Nacionalidade: Brasil, São Paulo, SP.
 + Estado Civil: solteiro
 

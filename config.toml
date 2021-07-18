@@ -8,7 +8,7 @@ unsafe= true
 
 [params]
   contentTypeName = "post"
-  themeColor = "green"
+  themeColor = "red"
   showMenuItems = 3
 
   [languages.en]
