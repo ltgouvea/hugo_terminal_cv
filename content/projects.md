@@ -12,20 +12,29 @@ Acesse grupotesseract.com.br para mais informações ou procure a gente no Githu
 
 [<div class="image-container"><img src="/img/logo-tesseract-branco-simples.png"></div>](https://www.grupotesseract.com.br/)
       
+----
 
 ## Trampos musicais da vida
 
 Gosto muito de tocar guitarra. Mais do que eu deveria.
 
+----
+
 ## Freelance
 
 Quando sobra tempo consigo participar em trampos freelance pra sistemas ou sites mais básicos. Infelizmente, não tem sobrado tempo, mas qualquer coisa eu atualizo aqui, ou você sempre pode mandar um e-mail com uma proposta irrecusável :D
 
+----
+
 ## Portfólio feito em React - Beatriz Montanhaur
 [<div class="image-container"><img src="/img/beatrizdm.png"></div>](https://www.beatrizdm.com/)
 
+----
+
 ## Site do projeto Múltiplos Olhares - Documentário sobre Esclerose Múltipla e Pandemia
 [<div class="image-container"><img src="/img/multiplosolhares.png"></div>](https://www.projetomultiplosolhares.com/)
+
+----
 
 ## Exemplos de código que vieram com o template e vou deixar aqui pois achei bonitinho e vai que alguém precisa um dia
 ```css
