@@ -9,7 +9,7 @@ unsafe= true
 [params]
   contentTypeName = "post"
   themeColor = "red"
-  showMenuItems = 3
+  showMenuItems = 4
 
   [languages.en]
     title = "Lucas Gouvêa - Web Developer"
@@ -29,6 +29,10 @@ unsafe= true
         identifier = "curriculum"
         name = "Currículo"
         url = "/curriculum"
+      [[languages.en.menu.main]]
+        identifier = "resume"
+        name = "Resume"
+        url = "/resume"
       [[languages.en.menu.main]]
         identifier = "projects"
         name = "Projetos"
